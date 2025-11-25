@@ -1,0 +1,5 @@
+{
+  "name": "DocuExtract AI",
+  "description": "A secure identity document processing dashboard that utilizes Gemini Vision to bulk extract structured data (PII) from ID images like Passports, PAN cards, and SSNs for analysis.",
+  "requestFramePermissions": []
+}
